@@ -20,7 +20,7 @@ git remote add origin url_repo_github -> me permite añadir un origin remoto
 git push origin rama_que _quiero_enviar -> me permite enviar los cambios a un repositorio remoto Github
 git show #nombre --> cambios que se dieron al guardado
 
-
+Tengo varios comandos ya grabados, pero aun sigo aprendiendo los que se nos otorgo
 
 
 Estoy en una rama nueva, en esta agregare :
