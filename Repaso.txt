@@ -1,0 +1,20 @@
+git config --global user.name "david"
+git config --global user.email dt398783@gmail.com
+touch #nombre -->crea un documento
+las configuraciones solo se corren la primera vez que se instala git en el ordenador.
+git init -> inicializa un repositorio
+git add #archivo -> pasa los archivos del workspace al staging area (se puede usar . en vez del nombre del
+archivo)
+clear --> limpia la pantalla 
+
+git commit -m “mensajes” -> pasa los archivos del staging area al repositorio.
+git status -> me permite ver el estado actual de mis cambios
+git log -> me permite ver los commits guardados
+○ --oneline -> me los muestra simplificados
+○ > archivo.txt los exporta a un archivo
+git checkout #hash -> me permite regresar a un commit anterior
+git branch -> me permite ver las ramas existentes y me muestra en cual estoy
+git branch nombre -> crea una nueva rama
+git checkout nombreRama -> me posiciona en la rama seleccionada.
+git remote add origin url_repo_github -> me permite añadir un origin remoto
+git push origin rama_que _quiero_enviar -> me permite enviar los cambios a un repositorio remoto Github
