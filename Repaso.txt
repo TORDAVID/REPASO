@@ -19,3 +19,10 @@ git checkout nombreRama -> me posiciona en la rama seleccionada.
 git remote add origin url_repo_github -> me permite añadir un origin remoto
 git push origin rama_que _quiero_enviar -> me permite enviar los cambios a un repositorio remoto Github
 git show #nombre --> cambios que se dieron al guardado
+
+
+
+
+Estoy en una rama nueva, en esta agregare :
+git branch --> cuales ramas tenemos
+git branch #nombredenuevarama --> se crea una rama
